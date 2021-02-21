@@ -5,3 +5,9 @@ This contains a C# sample to unit test events from Azure Event Grid using an Azu
 This sample demonstrates how to unit test event grid events using Azure relay hybrid connection.
 
 The above sample uses the Event Grid data plane SDK (Microsoft.Azure.EventGrid) and Azure Relay SDK (Microsoft.Azure.Relay).
+
+## Getting Started
+
+### Prerequisites
+* .NET Core 5 or higher
+* Azure subscription
