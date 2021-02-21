@@ -17,3 +17,10 @@ The above sample uses the Event Grid data plane SDK (Microsoft.Azure.EventGrid) 
 2.  Set **Key and TopicUrl** at `Setup/EventGridSetting.json`
 3.  Set **RelayNamespace, ConnectionName, KeyName and Key** at `Setup/HybridConnectionSetting.json`
 4.  Run Test from **Test Explorer**
+
+## Resources
+* https://docs.microsoft.com/en-us/azure/event-grid/overview
+* https://docs.microsoft.com/en-us/azure/azure-relay/relay-what-is-it
+* https://docs.microsoft.com/en-us/azure/azure-relay/relay-hybrid-connections-protocol
+* https://docs.microsoft.com/en-us/azure/event-grid/custom-event-to-hybrid-connection
+* https://docs.microsoft.com/en-us/azure/azure-relay/relay-hybrid-connections-http-requests-dotnet-get-started
