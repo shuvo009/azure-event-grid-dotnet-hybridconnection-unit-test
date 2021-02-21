@@ -31,6 +31,30 @@ The above sample uses the Event Grid data plane SDK (Microsoft.Azure.EventGrid) 
 * Step 4 (Getting Key)
 ![alt text](https://github.com/shuvo009/azure-event-grid-dotnet-hybridconnection-unit-test/blob/main/img/EventGrid4.PNG "Azure Event Grid Topic Creation Steps")
 
+### Azure Relays Creation Steps
+* Step 1 
+![alt text](https://github.com/shuvo009/azure-event-grid-dotnet-hybridconnection-unit-test/blob/main/img/AzureRelays5.PNG "Azure Event Grid Topic Creation Steps")
+
+* Step 2 
+![alt text](https://github.com/shuvo009/azure-event-grid-dotnet-hybridconnection-unit-test/blob/main/img/AzureRelays6.PNG "Azure Event Grid Topic Creation Steps")
+
+* Step 3
+![alt text](https://github.com/shuvo009/azure-event-grid-dotnet-hybridconnection-unit-test/blob/main/img/AzureRelays7.PNG "Azure Event Grid Topic Creation Steps")
+
+* Step 4 (Getting RelayNamespace and ConnectionName) 
+![alt text](https://github.com/shuvo009/azure-event-grid-dotnet-hybridconnection-unit-test/blob/main/img/AzureRelays8.PNG "Azure Event Grid Topic Creation Steps")
+
+* Step 5 (Getting KeyName and Key) 
+![alt text](https://github.com/shuvo009/azure-event-grid-dotnet-hybridconnection-unit-test/blob/main/img/AzureRelays9.PNG "Azure Event Grid Topic Creation Steps")
+
+### Connection Between Azure Event Grid Hybrid Connection
+* Step 1 
+![alt text](https://github.com/shuvo009/azure-event-grid-dotnet-hybridconnection-unit-test/blob/main/img/SubscriptionToHC10 "Connection Between Azure Event Grid Hybrid Connection")
+
+* Step 2
+![alt text](https://github.com/shuvo009/azure-event-grid-dotnet-hybridconnection-unit-test/blob/main/img/SubscriptionToHC11 "Connection Between Azure Event Grid Hybrid Connection")
+
+
 ## Resources
 * https://docs.microsoft.com/en-us/azure/event-grid/overview
 * https://docs.microsoft.com/en-us/azure/azure-relay/relay-what-is-it
