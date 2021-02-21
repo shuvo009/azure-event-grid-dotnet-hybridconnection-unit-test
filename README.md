@@ -19,10 +19,19 @@ The above sample uses the Event Grid data plane SDK (Microsoft.Azure.EventGrid) 
 4.  Run Test from **Test Explorer**
 
 ### Azure Event Grid Topic Creation Steps
-* ![alt text](https://github.com/shuvo009/azure-event-grid-dotnet-hybridconnection-unit-test/blob/main/img/EventGrid1.PNG "Azure Event Grid Topic Creation Steps")
-* * ![alt text](https://github.com/shuvo009/azure-event-grid-dotnet-hybridconnection-unit-test/blob/main/img/EventGrid2.PNG "Azure Event Grid Topic Creation Steps")
-* * ![alt text](https://github.com/shuvo009/azure-event-grid-dotnet-hybridconnection-unit-test/blob/main/img/EventGrid3.PNG "Azure Event Grid Topic Creation Steps")
-* * ![alt text](https://github.com/shuvo009/azure-event-grid-dotnet-hybridconnection-unit-test/blob/main/img/EventGrid4.PNG "Azure Event Grid Topic Creation Steps")
+* Step 1 
+
+![alt text](https://github.com/shuvo009/azure-event-grid-dotnet-hybridconnection-unit-test/blob/main/img/EventGrid1.PNG "Azure Event Grid Topic Creation Steps")
+
+* Setp 2
+
+![alt text](https://github.com/shuvo009/azure-event-grid-dotnet-hybridconnection-unit-test/blob/main/img/EventGrid2.PNG "Azure Event Grid Topic Creation Steps")
+
+* Step 3 (Geting TopicUrl)
+![alt text](https://github.com/shuvo009/azure-event-grid-dotnet-hybridconnection-unit-test/blob/main/img/EventGrid3.PNG "Azure Event Grid Topic Creation Steps")
+
+* Step 4 (Geting Key)
+![alt text](https://github.com/shuvo009/azure-event-grid-dotnet-hybridconnection-unit-test/blob/main/img/EventGrid4.PNG "Azure Event Grid Topic Creation Steps")
 
 ## Resources
 * https://docs.microsoft.com/en-us/azure/event-grid/overview
