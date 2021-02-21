@@ -16,4 +16,4 @@ The above sample uses the Event Grid data plane SDK (Microsoft.Azure.EventGrid) 
 1.  Load AzureEventGridPublisher solution in Visual Studio.
 2.  Set **Key and TopicUrl** at `Setup/EventGridSetting.json`
 3.  Set **RelayNamespace, ConnectionName, KeyName and Key** at `Setup/HybridConnectionSetting.json`
-4.  Run Test from Test Explorer
+4.  Run Test from **Test Explorer**
