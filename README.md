@@ -49,10 +49,10 @@ The above sample uses the Event Grid data plane SDK (Microsoft.Azure.EventGrid) 
 
 ### Connection Between Azure Event Grid Hybrid Connection
 * Step 1 
-![alt text](https://github.com/shuvo009/azure-event-grid-dotnet-hybridconnection-unit-test/blob/main/img/SubscriptionToHC10 "Connection Between Azure Event Grid Hybrid Connection")
+![alt text](https://github.com/shuvo009/azure-event-grid-dotnet-hybridconnection-unit-test/blob/main/img/SubscriptionToHC10.PNG "Connection Between Azure Event Grid Hybrid Connection")
 
 * Step 2
-![alt text](https://github.com/shuvo009/azure-event-grid-dotnet-hybridconnection-unit-test/blob/main/img/SubscriptionToHC11 "Connection Between Azure Event Grid Hybrid Connection")
+![alt text](https://github.com/shuvo009/azure-event-grid-dotnet-hybridconnection-unit-test/blob/main/img/SubscriptionToHC11.PNG "Connection Between Azure Event Grid Hybrid Connection")
 
 
 ## Resources
