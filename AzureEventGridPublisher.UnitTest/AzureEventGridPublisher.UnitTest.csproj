@@ -25,4 +25,13 @@
     <ProjectReference Include="..\AzureEventGridPublisher.Service\AzureEventGridPublisher.Service.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Setup\EventGridSetting.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Setup\HybridConnectionSetting.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
