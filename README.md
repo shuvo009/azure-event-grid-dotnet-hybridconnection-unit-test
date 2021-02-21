@@ -20,17 +20,15 @@ The above sample uses the Event Grid data plane SDK (Microsoft.Azure.EventGrid) 
 
 ### Azure Event Grid Topic Creation Steps
 * Step 1 
-
 ![alt text](https://github.com/shuvo009/azure-event-grid-dotnet-hybridconnection-unit-test/blob/main/img/EventGrid1.PNG "Azure Event Grid Topic Creation Steps")
 
 * Setp 2
-
 ![alt text](https://github.com/shuvo009/azure-event-grid-dotnet-hybridconnection-unit-test/blob/main/img/EventGrid2.PNG "Azure Event Grid Topic Creation Steps")
 
-* Step 3 (Geting TopicUrl)
+* Step 3 (Getting TopicUrl)
 ![alt text](https://github.com/shuvo009/azure-event-grid-dotnet-hybridconnection-unit-test/blob/main/img/EventGrid3.PNG "Azure Event Grid Topic Creation Steps")
 
-* Step 4 (Geting Key)
+* Step 4 (Getting Key)
 ![alt text](https://github.com/shuvo009/azure-event-grid-dotnet-hybridconnection-unit-test/blob/main/img/EventGrid4.PNG "Azure Event Grid Topic Creation Steps")
 
 ## Resources
