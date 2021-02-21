@@ -11,3 +11,9 @@ The above sample uses the Event Grid data plane SDK (Microsoft.Azure.EventGrid) 
 ### Prerequisites
 * .NET Core 5 or higher
 * Azure subscription
+
+### Running the Sample
+1.  Load AzureEventGridPublisher solution in Visual Studio.
+2.  Set **Key and TopicUrl** at `Setup/EventGridSetting.json`
+3.  Set **RelayNamespace, ConnectionName, KeyName and Key** at `Setup/HybridConnectionSetting.json`
+4.  Run Test from Test Explorer
